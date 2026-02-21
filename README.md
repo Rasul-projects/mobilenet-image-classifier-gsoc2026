@@ -32,7 +32,7 @@ The system predicts objects from uploaded images and shows confidence scores usi
 - Better UI
 
 ## 👨‍💻 Author
-Rasul
+Shaik Rasul
 ## Output
 
 ![Result](image.png)
