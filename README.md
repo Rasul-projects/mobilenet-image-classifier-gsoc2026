@@ -33,3 +33,6 @@ The system predicts objects from uploaded images and shows confidence scores usi
 
 ## 👨‍💻 Author
 Rasul
+## Output
+
+![Result](image.png)
