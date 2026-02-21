@@ -33,6 +33,11 @@ The system predicts objects from uploaded images and shows confidence scores usi
 
 ## 👨‍💻 Author
 Shaik Rasul
-## Output
 
-![Result](image.png)
+## Output Examples
+
+### Example 1
+![Prediction Result](output1.png)
+
+### Example 2
+![Prediction Result](output2.png)
