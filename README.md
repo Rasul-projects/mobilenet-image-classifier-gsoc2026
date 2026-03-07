@@ -41,8 +41,8 @@ Shaik Rasul
 
 ## Output Examples:-
 
-### Example 1
+### Example 1:--
 ![Prediction Result](output1.png)
 
-### Example 2
+### Example 2:-
 ![Prediction Result](output2.png)
