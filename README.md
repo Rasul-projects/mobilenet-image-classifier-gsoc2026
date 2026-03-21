@@ -9,7 +9,7 @@ This project implements an AI-based image classification system using the Mobile
 
 The system predicts objects from uploaded images and shows confidence scores using a pre-trained neural network.
 
-## Features:-
+## Features:--
 
 - Image classification using MobileNet
 - Predicts top objects from images
@@ -23,14 +23,14 @@ The system predicts objects from uploaded images and shows confidence scores usi
 - MobileNet Model
 - Google Colab
 
-## How to Run this code:-
+## How to Run this code:--
 
 1. Open the notebook in Google Colab
 2. Upload an image
 3. Run all cells
 4. See prediction results
 
-## Future Improvements on this code:-
+## Future Improvements on this code:--
 
 - Web interface for upload
 - Custom dataset training
@@ -44,5 +44,5 @@ Shaik Rasul
 ### Example 1:--
 ![Prediction Result](output1.png)
 
-### Example 2:-
+### Example 2:--
 ![Prediction Result](output2.png)
