@@ -3,13 +3,13 @@ Deep learning image classifier using MobileNetV2. Upload image and get AI predic
 
 # MobileNet Image Classifier (GSoC 2026 Ready)
 
-## Project Overview
+## Project Overview:-
 
 This project implements an AI-based image classification system using the MobileNet deep learning model.
 
 The system predicts objects from uploaded images and shows confidence scores using a pre-trained neural network.
 
-## Features:--
+## Features:-
 
 - Image classification using MobileNet
 - Predicts top objects from images
