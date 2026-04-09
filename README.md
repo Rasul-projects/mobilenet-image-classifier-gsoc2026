@@ -15,7 +15,7 @@ The system predicts objects from uploaded images and shows confidence scores usi
 - Predicts top objects from images
 - Shows confidence percentage
 - Runs in Google Colab environment
-- Beginner friendly AI project
+- Beginner friendly AI project       
 
 ## Technologies Used on this project :
 - Python
