@@ -16,7 +16,7 @@ The system predicts objects from uploaded images and shows confidence scores usi
 - Shows confidence percentage
 - Runs in Google Colab environment
 - Beginner friendly AI project       
-
+ 
 ## Technologies Used on this project :
 - Python
 - TensorFlow / Keras
