@@ -23,7 +23,7 @@ The system predicts objects from uploaded images and shows confidence scores usi
 - MobileNet Model
 - Google Colab
 
-## How to Run this code:-
+## How to Run this code:
 
 1. Open the notebook in Google Colab
 2. Upload an image
