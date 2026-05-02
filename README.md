@@ -7,7 +7,7 @@ Deep learning image classifier using MobileNetV2. Upload image and get AI predic
 
 This project implements an AI-based image classification system using the MobileNet deep learning model.
 
-The system predicts objects from uploaded images and shows confidence scores using a pre-trained neural network..
+The system predicts objects from uploaded images and shows confidence scores using a pre-trained neural network.
 
 ## Features:-
 
