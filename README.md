@@ -9,7 +9,7 @@ This project implements an AI-based image classification system using the Mobile
 
 The system predicts objects from uploaded images and shows confidence scores using a pre-trained neural network.
 
-## Features:---
+## Features:--
 
 - Image classification using MobileNet
 - Predicts top objects from images
