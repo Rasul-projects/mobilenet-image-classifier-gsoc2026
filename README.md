@@ -3,7 +3,7 @@ Deep learning image classifier using MobileNetV2. Upload image and get AI predic
 
 # MobileNet Image Classifier (GSoC 2026 Ready)  
 
-## Project Overview :-1234567890-qwertyuio
+## Project Overview :-1234567890-qwertyui
 
 This project implements an AI-based image classification system using the MobileNet deep learning model.
 
